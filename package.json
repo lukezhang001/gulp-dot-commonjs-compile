@@ -1,0 +1,32 @@
+{
+  "name": "gulp-dot-commonjs-compile",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukezhang001/gulp-dot-commonjs-compile"
+  },
+  "description": "Gulp plugin for precompilation of doT templates.",
+  "main": "index.js",
+  "keywords": [
+    "doT",
+    "template",
+    "precompilation",
+    "gulp",
+    "plugin",
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Lukezhang"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dot": "^1.0.3",
+    "gulp-util": "^3.0.6",
+    "path": "^0.11.14",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/lukezhang001/gulp-dot-commonjs-compile/issues"
+  },
+  "homepage": "https://github.com/lukezhang001/gulp-dot-commonjs-compile"
+}
