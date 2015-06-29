@@ -1,6 +1,6 @@
 # gulp-dot-commonjs-compile
 Gulp plugin for precompilation of doT templates.
-# Example
+## Example
 If we have following folder structure:    
 src/list.html:
 ```js
